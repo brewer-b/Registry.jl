@@ -1,0 +1,3 @@
+name = "Poker"
+uuid = "612fdc82-1377-446a-a693-86b197cc4df5"
+repo = "https://github.com/brewer-b/Poker.jl"

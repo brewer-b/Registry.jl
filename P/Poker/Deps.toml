@@ -1,0 +1,4 @@
+[1]
+DataDeps = "124859b0-ceae-595e-8997-d05f6a7a8dfe"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+PokerIsomorphism_jll = "133beed6-7c83-59bf-b8b3-f5e6e5f3f679"

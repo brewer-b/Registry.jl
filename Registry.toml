@@ -5,3 +5,4 @@ description = "My private Julia registry"
 
 [packages]
 133beed6-7c83-59bf-b8b3-f5e6e5f3f679 = { name = "PokerIsomorphism_jll", path = "jll/P/PokerIsomorphism_jll" }
+612fdc82-1377-446a-a693-86b197cc4df5 = { name = "Poker", path = "P/Poker" }
