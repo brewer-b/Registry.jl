@@ -4,3 +4,4 @@ repo = "https://github.com/brewer-b/Registry.jl"
 description = "My private Julia registry"
 
 [packages]
+cd065cc9-4ba2-5ee8-9ac0-d405a4942aee = { name = "OMPEval_jll", path = "jll/O/OMPEval_jll" }
