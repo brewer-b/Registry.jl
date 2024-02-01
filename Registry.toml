@@ -1,0 +1,6 @@
+name = "Registry.jl"
+uuid = "faae0330-ede6-4e42-8628-177ee811d5b1"
+repo = "https://github.com/brewer-b/Registry.jl"
+description = "My private Julia registry"
+
+[packages]
